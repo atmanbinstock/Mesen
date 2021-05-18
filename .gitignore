@@ -180,3 +180,14 @@ PGOHelper/PGOMesenHome
 packages/*
 
 !Libretro/hakchi/bin
+Debugger/test.cdl
+Debugger/test.Workspace.xml
+MesenCore.dll
+MesenDB.txt
+MesenUpdater.exe
+Movies/test.mmo
+RecentGames/test.rgd
+Resources/Font.24.spritefont
+Resources/Font.64.spritefont
+Resources/LICENSE.txt
+settings.xml
